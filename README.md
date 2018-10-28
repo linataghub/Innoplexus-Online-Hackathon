@@ -1,6 +1,6 @@
 # Innoplexus Online Hackathon
 
-This project was part of the Innoplexus Online Hackathon organised in August 2018 on Analytic Vidhya platform.
+This project was part of the Innoplexus Online Hackathon organised in August 2018 on Analytics Vidhya platform.
 
 Private Leaderboard: Ranked 26th (score: 0.7547238736)
 
